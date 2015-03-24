@@ -61,4 +61,5 @@ x1 = expQuickProjection(x, g, epsilon)
 ## Numerical test
 This test compares the average time to project a vector of size `d`, using the SortProject and the QuickProject algorithms. The code is in test.py
 
-![Average run times](http://www.eecs.berkeley.edu/~walid/projects/BregmanProjection/runtimes.pdf "Average run times")
+![Average run times](http://www.eecs.berkeley.edu/~walid/projects/BregmanProjection/runtimes.jpg "Average run times")
+![Average run times](http://www.eecs.berkeley.edu/~walid/projects/BregmanProjection/runtimes-detail.jpg "Average run times")
